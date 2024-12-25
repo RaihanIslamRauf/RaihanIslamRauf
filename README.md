@@ -21,9 +21,8 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science graduate** who
 - Enhancing my problem-solving skills through coding challenges
 
 ## 🔖 Connect with Me:
-- [GitHub](https://github.com/YourUsername)
-- [LinkedIn](https://www.linkedin.com/in/YourProfile)
-- [Portfolio](https://yourportfolio.com)
+- [GitHub](https://github.com/RaihanIslamRauf)
+- [LinkedIn](https://www.linkedin.com/in/raihan-islam-rauf-6a6660227/)
 
 ## 🌐 Goals for the Future:
 - Master advanced web development frameworks
