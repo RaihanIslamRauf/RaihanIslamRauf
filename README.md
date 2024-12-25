@@ -29,12 +29,5 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science graduate** who
 - Contribute to open-source projects
 - Build projects that make a difference
 
-### Fun Fact:
-Coding isn’t just work; it’s a creative outlet for me. I enjoy crafting solutions as much as exploring the endless possibilities technology offers.
-
-Feel free to explore my repositories and connect. Let’s collaborate and create something amazing together!
-
----
-
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler*
 
