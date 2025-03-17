@@ -18,18 +18,18 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science graduate** who
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-## 🎨 What I’m Working On:
+## 💻🚀 What I’m Working On:
 
 - Building dynamic and interactive web applications
 - Exploring full-stack development
 - Enhancing my problem-solving skills through coding challenges
 
-## 🔖 Connect with Me:
+## 🌐 Connect with Me:
 
 - [GitHub](https://github.com/RaihanIslamRauf)
 - [LinkedIn](https://www.linkedin.com/in/raihan-islam-rauf-6a6660227/)
 
-## 🌐 Goals for the Future:
+## 🎯 Goals for the Future:
 
 - Master advanced web development frameworks
 - Contribute to open-source projects
