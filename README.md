@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Md. Raihan Islam Rauf
 
-🎓 **Computer Science Graduate | Junior Frontend Developer**  
-📍 Moghbazar, Dhaka | 📧 md.raufislam27@gmail.com | 📞 +8801831539667
+💻 **Junior Frontend Developer**  
+🎓 **Computer Science Graduate**  
+📍 Moghbazar, Dhaka  
+📧 [md.raufislam27@gmail.com](mailto:md.raufislam27@gmail.com)  
+🔗 [Portfolio](https://portfolio-md-raihan-islam-rauf.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/raihan-islam-rauf-6a6660227/)
 
 Welcome to my GitHub! I’m a passionate and ambitious developer with a strong foundation in modern web technologies and a special interest in full-stack JavaScript development using the **MERN stack**.
 
@@ -9,9 +12,8 @@ Welcome to my GitHub! I’m a passionate and ambitious developer with a strong f
 
 ## 🚀 About Me
 
-I hold a Bachelor’s degree in Computer Science and Engineering from **Stamford University Bangladesh**, graduating with a **CGPA of 3.76**. My curiosity about how websites function evolved into a deep commitment to becoming a web developer.
-
-To gain hands-on experience, I completed a 6-month project-based web development course from **Programming Hero**, where I mastered modern web technologies and tools. I’m particularly confident in building **user-friendly, scalable, and secure full-stack applications**.
+I hold a Bachelor’s degree in Computer Science and Engineering from **Stamford University Bangladesh**, graduating with a **CGPA of 3.76**.  
+I completed a 6-month project-based web development course from **Programming Hero**, where I built multiple full-stack applications using industry-standard tools and practices.
 
 ---
 
@@ -59,7 +61,7 @@ To gain hands-on experience, I completed a 6-month project-based web development
 
 ## 📌 Featured Projects
 
-### 🔹 [Crowdcube](#)
+### 🔹 [Crowdcube](https://assignment-10-ebf30.web.app/)
 **A full-stack donation platform** where users can support causes, and authenticated users can manage fundraising campaigns.
 
 **Key Features:**
@@ -68,11 +70,11 @@ To gain hands-on experience, I completed a 6-month project-based web development
 - Real-time donation tracking
 
 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Vercel  
-🔗 [Live Site](#) | [Client Repo](#) | [Server Repo](#)
+🔗 [Live Site](https://assignment-10-ebf30.web.app/) | [Client Repo](https://github.com/RaihanIslamRauf/b-10-a-10-client-side) | [Server Repo](https://github.com/RaihanIslamRauf/b-10-a-10-server-side)
 
 ---
 
-### 🔹 [RunTrack](#)
+### 🔹 [RunTrack](https://assignment-11-4d65a.web.app/)
 **A marathon management system** for runners and organizers.
 
 **Key Features:**
@@ -82,7 +84,7 @@ To gain hands-on experience, I completed a 6-month project-based web development
 - JWT-based authentication
 
 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT, Vercel  
-🔗 [Live Site](#) | [Client Repo](#) | [Server Repo](#)
+🔗 [Live Site](https://assignment-11-4d65a.web.app/) | [Client Repo](https://github.com/RaihanIslamRauf/b-10-a-11-client-side) | [Server Repo](https://github.com/RaihanIslamRauf/b-10-a-11-server-side)
 
 ---
 
@@ -100,7 +102,7 @@ To gain hands-on experience, I completed a 6-month project-based web development
 - 🌍 [Portfolio](https://portfolio-md-raihan-islam-rauf.netlify.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/raihan-islam-rauf-6a6660227/)  
 - 📁 [GitHub](https://github.com/RaihanIslamRauf)  
-- 📧 md.raufislam27@gmail.com
+- 📧 [md.raufislam27@gmail.com](mailto:md.raufislam27@gmail.com)
 
 ---
 
