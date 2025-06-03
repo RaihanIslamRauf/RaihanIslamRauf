@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Md. Raihan Islam Rauf
 
 🎯 **Junior Frontend Developer**  
-🎓 **Computer Science Graduate**
+🎓 **Computer Science & Engineering Graduate**
 
 📍 Moghbazar, Dhaka | 📧 md.raufislam27@gmail.com | 📞 +8801831539667  
 🌐 [Portfolio](https://portfolio-md-raihan-islam-rauf.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/raihan-islam-rauf-6a6660227/) | 📁 [GitHub](https://github.com/RaihanIslamRauf)
